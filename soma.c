@@ -1,0 +1,1 @@
+"#include <stdio.h>\n\nint main() {\n    int a, b, soma;\n\n    printf(\"Digite o primeiro número: \");\n    scanf(\"%d\", &a);\n\n    printf(\"Digite o segundo número: \");\n    scanf(\"%d\", &b);\n\n    soma = a + b;\n\n    printf(\"A soma de %d e %d é: %d\\n\", a, b, soma);\n\n    return 0;\n}" 
